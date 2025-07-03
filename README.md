@@ -3,15 +3,7 @@
 ## Overview
 
 This repository is a collection of IMPORTANT deep learning research papers, organized by research area and implementation. The goal is to provide a structured approach to understanding the evolution and core concepts of deep learning.
-
-## Disclaimer
-
-> [!IMPORTANT]
-> This is a personal learning project. The implementations and notes may contain errors or simplifications. Use with caution and always refer to the original papers.
-
-## Inspiration and Credits
-
-Inspired by [adam-maj](https://github.com/adam-maj) and expanded with additional research papers and implementations.
+(forked from saurabhalone)
 
 ## Project Goals
 
